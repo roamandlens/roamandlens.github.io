@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07fbdda7.css",
+    "main.js": "/static/js/main.04ffae8e.js",
+    "static/js/787.50f0c585.chunk.js": "/static/js/787.50f0c585.chunk.js",
+    "static/media/insta_post_img.jpeg": "/static/media/insta_post_img.4de7701b93fe836dfdb0.jpeg",
+    "index.html": "/index.html",
+    "main.07fbdda7.css.map": "/static/css/main.07fbdda7.css.map",
+    "main.04ffae8e.js.map": "/static/js/main.04ffae8e.js.map",
+    "787.50f0c585.chunk.js.map": "/static/js/787.50f0c585.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07fbdda7.css",
+    "static/js/main.04ffae8e.js"
+  ]
+}
